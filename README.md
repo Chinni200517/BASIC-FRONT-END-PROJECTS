@@ -1,1 +1,1 @@
-# ecommerce1
+# basic front end projects
