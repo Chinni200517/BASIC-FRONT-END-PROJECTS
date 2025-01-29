@@ -1,1 +1,1 @@
-# basic front end projects
+BASIC FRONTEND PROJECTS
